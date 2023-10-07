@@ -1,0 +1,32 @@
+
+*{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+.bold{font-weight: bold;}
+.normal{font-weight: lighter;}
+.header{text-align: center;
+        background-color: #003b5c;
+        color: white;}
+
+.titulo{text-align: center;
+        color: #262626;
+        font-size: 200%;}
+.textoBlanco{color: white;
+            text-align: center;}
+.BUAPBG{background-color: #003b5c;}
+.blancoBG{background-color: white;}
+.grisOscuroBG{background-color: #e3e3e3;
+            text-align: center;}
+.grisClaroBG{background-color: #f0f0f0;
+            text-align: center;}
+.azulBG{background-color: #4287f5;}
+.verdeBG{background-color: #528270;}
+.amarilloBG{background-color: #ffb152;}
+.rojoBG{background-color: #cf4848;}
+.moradoBG{background-color: #854ebf;}
+.verdeClaroBG{background-color: #749e3c;}
+.azulTXT{color: #4287f5;}
+.verdeTXT{color: #528270;}
+.amarilloTXT{color: #ffb152}
+.rojoTXT{color: #cf4848;}
+.moradoTXT{color: #854ebf}
+.verdeClaroTXT{color: #749e3c;}
