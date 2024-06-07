@@ -1,7 +1,5 @@
 # Web Development Exercises
 
-## Repository: web-dev-exercises
-
 ### Description
 
 This repository contains various exercises completed as part of learning HTML, CSS, and basic web design. Each exercise focuses on different aspects of web development, from embedding styles to creating structured layouts. The exercises demonstrate the application of HTML tags and basic CSS styling.
